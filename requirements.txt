@@ -127,7 +127,7 @@ locket==0.2.0
 lxml @ file:///C:/ci/lxml_1603216366346/work
 markdown-it-py==3.0.0
 MarkupSafe==1.1.1
-matplotlib==3.7.1
+matplotlib==3.6
 mccabe==0.6.1
 mdurl==0.1.2
 mealpy==2.4.0
